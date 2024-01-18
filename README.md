@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/archana36861975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="archana36861975" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/archana maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archana maurya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/archana-maurya-b63551267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/archana-maurya-b63551267" height="30" width="40" /></a>
 <a href="https://fb.com/archana maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="archana maurya" height="30" width="40" /></a>
 <a href="https://instagram.com/maurya_archana123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maurya_archana123" height="30" width="40" /></a>
 </p>
