@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mauryaarchana083@gmail.com**
 
-- 📄 Know about my experiences [fresher](fresher)
+- 📄 Know about my experiences 6 Moth Experience Fullstack Development internship
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
