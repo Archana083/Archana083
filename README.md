@@ -1,20 +1,20 @@
 # Hi 👋, I'm Archana Maurya
 
-### Software Development Engineer | Frontend Developer
+### Software Development Engineer · Frontend Developer
 
-I’m a frontend developer focused on building responsive, scalable, and user-friendly web applications.
+I build modern, responsive web applications with a focus on **clean UI, reusable components, API integration, and maintainable frontend architecture**.
 
-I work primarily with **JavaScript, Vue.js, React.js, and modern frontend technologies**, with experience integrating REST APIs, building reusable UI components, and working across the frontend development lifecycle.
+My primary frontend stack is **JavaScript, Vue.js, and React.js**, and I’m currently deepening my knowledge of **TypeScript, Next.js, advanced JavaScript, and frontend performance**.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 Currently working as a **Software Development Engineer**
-- 🌱 Currently strengthening my skills in **JavaScript, Vue 3, React.js, Next.js, and TypeScript**
-- 🔧 Experienced with **REST API integration, state management, responsive UI, and frontend development**
-- ⚡ Interested in **frontend architecture, performance, clean code, and great user experiences**
-- 🎯 Currently focusing on strengthening my **JavaScript fundamentals, problem solving, and advanced frontend concepts**
+- 💼 Software Development Engineer
+- 🧩 Frontend-focused developer with experience building and integrating production web interfaces
+- ⚡ Strong interest in **JavaScript fundamentals, Vue 3, React, state management, and API-driven applications**
+- 🌱 Currently learning **TypeScript, Next.js, advanced browser/JavaScript concepts, performance, and accessibility**
+- 🎯 Working toward becoming a stronger frontend engineer through deeper fundamentals and real-world projects
 
 ---
 
@@ -23,70 +23,95 @@ I work primarily with **JavaScript, Vue.js, React.js, and modern frontend techno
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,react,nextjs,tailwind,bootstrap,sass" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,react,nextjs,tailwind,bootstrap,sass" alt="HTML CSS JavaScript TypeScript Vue React Next.js Tailwind Bootstrap Sass" />
 </p>
 
-### State Management & Tools
+### State Management & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,pinia,vite,git,github" alt="State management and tools" />
+  <img src="https://skillicons.dev/icons?i=redux,pinia,vite,git,github" alt="Redux Pinia Vite Git GitHub" />
 </p>
 
-### Backend & Database
+### Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,nestjs,postgres,mysql,redis" alt="Backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,nestjs,postgres,mysql,redis" alt="Python Django Node.js NestJS PostgreSQL MySQL Redis" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 🛒 E-Commerce Application
+### ⚡ EV Charging Station
 
-A web-based e-commerce application focused on reusable UI components, product flows, state management, and API integration.
+A frontend project built around an EV charging platform experience. The project uses a modern **Next.js + React + TypeScript** stack with API-oriented tooling, forms, data fetching, tables, charts, authentication-related UI, and Stripe integration libraries.
 
-**Tech:** React.js, Redux Toolkit, Bootstrap, REST APIs
+**Tech:** Next.js, React, TypeScript, Tailwind CSS, TanStack Query, Axios, React Hook Form, Zod, Stripe
 
-### 💼 Online Job Portal
+urlView repository →https://github.com/Archana083/EvChargingStation
 
-A job portal application built to practice real-world frontend and backend integration, application structure, and API-driven workflows.
+### 🛒 E-Commerce Website
 
-**Tech:** React.js, Django, REST APIs
+A React-based e-commerce project focused on building an application-style frontend and practicing reusable UI and React development.
 
-### 💬 Quora Clone
+**Tech:** React, JavaScript, Vite
 
-A question-and-answer application built to practice component architecture, state management, and interactive user interfaces.
+urlView repository →https://github.com/Archana083/Ecommerce_website_react
 
-**Tech:** React.js, JavaScript
+### 🛍️ E-Commerce Project
 
-### ⚛️ Redux Toolkit Projects
+An additional e-commerce project in my portfolio, reflecting hands-on practice with building web application interfaces and frontend workflows.
 
-Hands-on projects focused on modern Redux state management, including slices, actions, reducers, and asynchronous operations.
+**Tech:** Frontend web development
 
-**Tech:** React.js, Redux Toolkit
+urlView repository →https://github.com/Archana083/e-commerce
+
+### 📝 Vue 3 To-Do App
+
+A Vue 3 + TypeScript project using **Pinia** and **Vue Router**, built to practice modern Vue application structure, state management, routing, type checking, linting, and reusable frontend patterns.
+
+**Tech:** Vue 3, TypeScript, Pinia, Vue Router, Vite
+
+urlView repository →https://github.com/Archana083/ToDo-VueJs
+
+### ⚛️ Redux Toolkit Practice
+
+A React project focused on practicing modern Redux Toolkit concepts and state-management patterns.
+
+**Tech:** React, Redux Toolkit, Vite
+
+urlView repository →https://github.com/Archana083/Redux_Toolkit
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced JavaScript & browser concepts
-- Vue 3 and modern Vue architecture
-- TypeScript
-- React.js & Next.js
-- Frontend performance and accessibility
-- Clean architecture and scalable frontend development
+```text
+Advanced JavaScript
+        ↓
+Browser & Web Fundamentals
+        ↓
+Vue 3 / React
+        ↓
+TypeScript
+        ↓
+Next.js
+        ↓
+Performance · Accessibility · Frontend Architecture
+```
+
+I’m focusing on understanding **why things work**, not just memorizing framework APIs — especially JavaScript execution, asynchronous programming, browser APIs, state management, and scalable frontend patterns.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Archana083&show_icons=true&theme=transparent" alt="Archana's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Archana083&show_icons=true&theme=transparent" alt="Archana's GitHub statistics" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archana083&theme=transparent" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archana083&theme=transparent" alt="Archana's GitHub contribution streak" />
 </p>
 
 ---
@@ -95,7 +120,7 @@ Hands-on projects focused on modern Redux state management, including slices, ac
 
 <p>
   <a href="https://www.linkedin.com/in/archana-maurya-b63551267/">LinkedIn</a>
-  &nbsp;•&nbsp;
+  &nbsp; · &nbsp;
   <a href="https://github.com/Archana083">GitHub</a>
 </p>
 
