@@ -42,37 +42,37 @@ My primary frontend stack is **JavaScript, Vue.js, and React.js**, and I’m cur
 
 ## 🚀 Selected Projects
 
-### ⚡ EV Charging Station
-
-A frontend project built around an EV charging platform experience. The project uses a modern **Next.js + React + TypeScript** stack with API-oriented tooling, forms, data fetching, tables, charts, authentication-related UI, and Stripe integration libraries.
-
-**Tech:** Next.js, React, TypeScript, Tailwind CSS, TanStack Query, Axios, React Hook Form, Zod, Stripe
-
-urlView repository →https://github.com/Archana083/EvChargingStation
-
 ### 🛒 E-Commerce Website
 
 A React-based e-commerce project focused on building an application-style frontend and practicing reusable UI and React development.
 
 **Tech:** React, JavaScript, Vite
 
-urlView repository →https://github.com/Archana083/Ecommerce_website_react
+[View repository →](https://github.com/Archana083/Ecommerce_website_react)
 
 ### 🛍️ E-Commerce Project
 
-An additional e-commerce project in my portfolio, reflecting hands-on practice with building web application interfaces and frontend workflows.
+An additional e-commerce project reflecting hands-on practice with building web application interfaces and frontend workflows.
 
 **Tech:** Frontend web development
 
-urlView repository →https://github.com/Archana083/e-commerce
+[View repository →](https://github.com/Archana083/e-commerce)
 
-### 📝 Vue 3 To-Do App
+### 💬 Quora Clone
 
-A Vue 3 + TypeScript project using **Pinia** and **Vue Router**, built to practice modern Vue application structure, state management, routing, type checking, linting, and reusable frontend patterns.
+A question-and-answer style application built to practice React components, interactive interfaces, and frontend application structure.
 
-**Tech:** Vue 3, TypeScript, Pinia, Vue Router, Vite
+**Tech:** React, JavaScript
 
-urlView repository →https://github.com/Archana083/ToDo-VueJs
+[View repository →](https://github.com/Archana083/Quora_clone)
+
+### 💼 Online Job Portal
+
+A job portal project built to practice application workflows and frontend/backend integration.
+
+**Tech:** React, Django, REST APIs
+
+[View repository →](https://github.com/Archana083/Online_jobPortal)
 
 ### ⚛️ Redux Toolkit Practice
 
@@ -80,7 +80,7 @@ A React project focused on practicing modern Redux Toolkit concepts and state-ma
 
 **Tech:** React, Redux Toolkit, Vite
 
-urlView repository →https://github.com/Archana083/Redux_Toolkit
+[View repository →](https://github.com/Archana083/Redux_Toolkit)
 
 ---
 
