@@ -2,19 +2,24 @@
 
 ### Software Development Engineer · Frontend Developer
 
-I build modern, responsive web applications with a focus on **clean UI, reusable components, API integration, and maintainable frontend architecture**.
+I build **modern, responsive, and user-friendly web applications** with a focus on clean UI, reusable components, responsive design, API integration, and maintainable frontend architecture.
 
-My primary frontend stack is **JavaScript, Vue.js, and React.js**, and I’m currently deepening my knowledge of **TypeScript, Next.js, advanced JavaScript, and frontend performance**.
+I'm a frontend-focused developer working primarily with **JavaScript, Vue.js, React.js, TypeScript, and Tailwind CSS**.
+
+I also enjoy building practical projects that turn real-world requirements into simple, usable web experiences.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 Software Development Engineer
-- 🧩 Frontend-focused developer with experience building and integrating production web interfaces
-- ⚡ Strong interest in **JavaScript fundamentals, Vue 3, React, state management, and API-driven applications**
-- 🌱 Currently learning **TypeScript, Next.js, advanced browser/JavaScript concepts, performance, and accessibility**
-- 🎯 Working toward becoming a stronger frontend engineer through deeper fundamentals and real-world projects
+- 💼 Software Development Engineer / Frontend Developer
+- 🚀 Around 2.5+ years of hands-on frontend development experience
+- ⚛️ Working with **React.js and Vue.js**
+- 🧠 Strong interest in **JavaScript fundamentals, TypeScript, state management, and frontend architecture**
+- 🎨 Focused on responsive UI, reusable components, accessibility, and clean code
+- 🔌 Comfortable working with APIs and frontend/backend integration
+- 🌱 Currently deepening my knowledge of **advanced JavaScript, TypeScript, Next.js, performance, and accessibility**
+- 💻 Open to **freelance website and frontend development projects**
 
 ---
 
@@ -26,13 +31,13 @@ My primary frontend stack is **JavaScript, Vue.js, and React.js**, and I’m cur
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,react,nextjs,tailwind,bootstrap,sass" alt="HTML CSS JavaScript TypeScript Vue React Next.js Tailwind Bootstrap Sass" />
 </p>
 
-### State Management & Developer Tools
+### State Management & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=redux,pinia,vite,git,github" alt="Redux Pinia Vite Git GitHub" />
 </p>
 
-### Backend & Data
+### Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,nestjs,postgres,mysql,redis" alt="Python Django Node.js NestJS PostgreSQL MySQL Redis" />
@@ -44,43 +49,68 @@ My primary frontend stack is **JavaScript, Vue.js, and React.js**, and I’m cur
 
 ### 🛒 E-Commerce Website
 
-A React-based e-commerce project focused on building an application-style frontend and practicing reusable UI and React development.
+A React-based e-commerce application built to practice reusable components, product interfaces, application state, and responsive frontend development.
 
-**Tech:** React, JavaScript, Vite
+**Tech:** React · JavaScript · Vite
 
 [View repository →](https://github.com/Archana083/Ecommerce_website_react)
 
-### 🛍️ E-Commerce Project
-
-An additional e-commerce project reflecting hands-on practice with building web application interfaces and frontend workflows.
-
-**Tech:** Frontend web development
-
-[View repository →](https://github.com/Archana083/e-commerce)
+---
 
 ### 💬 Quora Clone
 
-A question-and-answer style application built to practice React components, interactive interfaces, and frontend application structure.
+A question-and-answer style application created to practice interactive React interfaces, component architecture, and application workflows.
 
-**Tech:** React, JavaScript
+**Tech:** React · JavaScript
 
 [View repository →](https://github.com/Archana083/Quora_clone)
 
+---
+
 ### 💼 Online Job Portal
 
-A job portal project built to practice application workflows and frontend/backend integration.
+A job portal project focused on building application workflows and integrating a React frontend with a Django backend.
 
-**Tech:** React, Django, REST APIs
+**Tech:** React · Django · REST APIs
 
 [View repository →](https://github.com/Archana083/Online_jobPortal)
 
-### ⚛️ Redux Toolkit Practice
+---
 
-A React project focused on practicing modern Redux Toolkit concepts and state-management patterns.
+### 🏠 House Design
 
-**Tech:** React, Redux Toolkit, Vite
+A responsive website project focused on visual presentation, responsive layouts, and frontend UI implementation.
 
-[View repository →](https://github.com/Archana083/Redux_Toolkit)
+**Tech:** HTML · CSS · JavaScript
+
+[View repository →](https://github.com/Archana083/House_design)
+
+---
+
+### 🌍 Tourism Website
+
+A frontend project focused on creating a visually engaging travel/tourism experience with responsive layouts and reusable UI sections.
+
+**Tech:** React · Frontend Development
+
+[View repository →](https://github.com/Archana083/React_Tour_App)
+
+---
+
+## 💼 Freelance Services
+
+I’m building my freelance portfolio around:
+
+- 🌐 Business & company websites
+- 📱 Responsive landing pages
+- ⚛️ React.js websites and web applications
+- 🟢 Vue.js frontend development
+- 🎨 Figma/design to responsive website
+- 🔌 API integration
+- 📊 Admin dashboards
+- 🛠️ Website improvements and UI fixes
+
+**Interested in working together? Feel free to reach out.**
 
 ---
 
@@ -100,11 +130,24 @@ Next.js
 Performance · Accessibility · Frontend Architecture
 ```
 
-I’m focusing on understanding **why things work**, not just memorizing framework APIs — especially JavaScript execution, asynchronous programming, browser APIs, state management, and scalable frontend patterns.
+I’m focused on understanding **why things work**, not just memorizing framework APIs — especially JavaScript execution, asynchronous programming, browser APIs, state management, API integration, and scalable frontend patterns.
 
 ---
 
-## 📊 GitHub
+## 🎯 What I Care About
+
+- Clean and maintainable code
+- Responsive design
+- Reusable components
+- Good user experience
+- Accessibility
+- Performance
+- Practical problem solving
+- Understanding requirements before implementation
+
+---
+
+## 📊 GitHub Activity
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Archana083&show_icons=true&theme=transparent" alt="Archana's GitHub statistics" />
@@ -129,3 +172,5 @@ I’m focusing on understanding **why things work**, not just memorizing framewo
 ---
 
 ⭐ Thanks for visiting my profile!
+
+If you’re looking for a frontend developer to build a **responsive website or web application**, feel free to connect with me.
